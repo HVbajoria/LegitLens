@@ -1,6 +1,6 @@
 # Legit Lens :computer: :newspaper:
  <p align="center"> 
- <img src="" width="250" alt="Logo" > 
+ <img src="https://github.com/HVbajoria/LegitLens/blob/main/images/logo.png" width="250" alt="Logo" > 
    </p> 
  </br> 
   
