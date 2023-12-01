@@ -1,0 +1,6 @@
+BeautifulSoup4
+scikit-learn
+torchtext
+nltk
+seaborn
+streamlit
