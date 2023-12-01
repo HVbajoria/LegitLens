@@ -4,3 +4,4 @@ torchtext
 nltk
 seaborn
 streamlit
+azure-storage-blob
