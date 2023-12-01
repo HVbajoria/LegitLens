@@ -1,3 +1,31 @@
+# Legit Lens :computer: :newspaper:
+ <p align="center"> 
+ <img src="https://github.com/HVbajoria/LegitLens/blob/main/images/logo.png" width="250" alt="Logo" > 
+   </p> 
+ </br> 
+  
+ ## Website Link: https://legitlens.streamlit.app/
+  
+ ## Details : 
+
+ **Team Name** : Innovation Redefined
+
+ **Mentor & Guide**: Dr. Pronaya Bhattacharya
+
+ **Member Details**: 
+ * **Member 1** : Harshavardhan Bajoria (A91005220073)
+ * **Member 2** : Arghdeep Banerjee (A91005200)
+ * **Member 3** : Aftab Alam (A9100522)
+ * **Member 4** : Esita Budia (A9100522)
+  
+ **College Name** : Amity University Kolkata 
+  
+ **Graduation Year**: 2024 
+  
+## Theme :  
+The proliferation of fake news undermines the integrity of information, erodes public trust, and poses a significant threat to democratic processes. Developing a robust fake news detection tool is imperative to safeguard the accuracy of news sources, protect public discourse, and mitigate the societal consequences of misinformation in the digital age.
+
+## Overview: 
 *  Basics
     *  For each news article or site, we extract **features** from the **URL** and **HTML**, such as, a vector describing the domain extension of the URL.
     *  We feed this into a logistic regression model, and out comes the result.
