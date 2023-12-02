@@ -34,7 +34,13 @@ The proliferation of fake news undermines the integrity of information, erodes p
 * **NLP and ML Models** to extract the relevant features, keywords and build the prediction model. 
 * **Python** to build the logic, and the backend of the application. 
 * **GitHub** to host the source code, use the version control (collaboration history) to understand the changes, and go back and forth if required to complete the software.
-* **GitHub Codespaces** For quick and easy building and deployment of the software using in-browser VS code. 
+* **GitHub Codespaces** For quick and easy building and deployment of the software using in-browser VS code.
+
+## Methodology
+
+### Training and Testing Model
+<img src="https://datasetlegitlens.blob.core.windows.net/dataset/Training%20and%20Testing%20Model.png?sp=r&st=2023-12-02T08:21:28Z&se=2023-12-02T16:21:28Z&sv=2022-11-02&sr=b&sig=TR8afsgIoP%2FOXAzHuOuawqiOF972ogZ4l8bIWfGSRmo%3D" width="1050" alt="Training and Testing Model" > 
+
 
 ## Overview of the model: 
 *  Basics
