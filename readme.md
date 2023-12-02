@@ -13,10 +13,10 @@
  **Mentor & Guide**: Dr. Pronaya Bhattacharya
 
  **Member Details**: 
- * **Member 1** : Harshavardhan Bajoria (A91005220073)
- * **Member 2** : Arghdeep Banerjee (A91005200)
- * **Member 3** : Aftab Alam (A9100522)
- * **Member 4** : Esita Budia (A9100522)
+ * **Member 1** : Arghdeep Banerjee (A91005220030)
+ * **Member 2** : Harshavardhan Bajoria (A91005220073)
+ * **Member 3** : Aftab Alam (A91005220092)
+ * **Member 4** : Esita Budia (A91005220104)
   
  **College Name** : Amity University Kolkata 
   
@@ -25,7 +25,18 @@
 ## Theme :  
 The proliferation of fake news undermines the integrity of information, erodes public trust, and poses a significant threat to democratic processes. Developing a robust fake news detection tool is imperative to safeguard the accuracy of news sources, protect public discourse, and mitigate the societal consequences of misinformation in the digital age.
 
-## Overview: 
+ ## Tech Stack: 
+ The following tech stacks have been used to create the application and deploy it.   
+* **Streamlit** to build the front end of the application. 
+* **Streamlit Cloud** to deploy the application for global access. 
+* **Microsoft Azure Blob Storage** to store the training and testing dataset along with hosting images. 
+* **Microsoft Azure ML Studio** to build and test Machine Learning models for fake news detection.
+* **NLP and ML Models** to extract the relevant features, keywords and build the prediction model. 
+* **Python** to build the logic, and the backend of the application. 
+* **GitHub** to host the source code, use the version control (collaboration history) to understand the changes, and go back and forth if required to complete the software.
+* **GitHub Codespaces** For quick and easy building and deployment of the software using in-browser VS code. 
+
+## Overview of the model: 
 *  Basics
     *  For each news article or site, we extract **features** from the **URL** and **HTML**, such as, a vector describing the domain extension of the URL.
     *  We feed this into a logistic regression model, and out comes the result.
