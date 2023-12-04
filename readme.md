@@ -39,10 +39,10 @@ The proliferation of fake news undermines the integrity of information, erodes p
 ## Methodology
 
 ### Training and Testing Model
-<img src="https://datasetlegitlens.blob.core.windows.net/dataset/Training%20and%20Testing%20Model.png?sp=r&st=2023-12-02T08:21:28Z&se=2023-12-02T16:21:28Z&sv=2022-11-02&sr=b&sig=TR8afsgIoP%2FOXAzHuOuawqiOF972ogZ4l8bIWfGSRmo%3D" width="1050" alt="Training and Testing Model" > 
+<img src="https://datasetlegitlens.blob.core.windows.net/dataset/Training%20and%20Testing%20Model.png?sp=r&st=2023-12-04T05:22:23Z&se=2023-12-04T13:22:23Z&sv=2022-11-02&sr=b&sig=IQd57swFoULFoIs2n061FXCgpoYj66VyCXm%2BrNtB4h4%3D" width="1050" alt="Training and Testing Model" > 
 
 ## The Application Architecture
-<img src="https://datasetlegitlens.blob.core.windows.net/dataset/Legit%20Lens.png?sp=r&st=2023-12-02T08:51:41Z&se=2023-12-02T16:51:41Z&sv=2022-11-02&sr=b&sig=izLgzzX15JQSkQgtiBS1yIOURL%2BPHxL2eQF4QPuXg9k%3D" width="1050" alt="Application Architecture" > 
+<img src="https://datasetlegitlens.blob.core.windows.net/dataset/Legit%20Lens.png?sp=r&st=2023-12-04T05:24:46Z&se=2023-12-19T13:24:46Z&sv=2022-11-02&sr=b&sig=NyzhM%2Bv0gInHWSi26RRBhZH3SbLBhTDUvGRpshc70%2BA%3D" width="1050" alt="Application Architecture" > 
 
 ## Overview of the model: 
 *  Basics
