@@ -1,6 +1,6 @@
 # Legit Lens :computer: :newspaper:
  <p align="center"> 
- <img src="https://datasetlegitlens.blob.core.windows.net/dataset/logo.png?sp=r&st=2023-12-02T07:07:03Z&se=2023-12-02T15:07:03Z&sv=2022-11-02&sr=b&sig=sSZESvs5wpYxspwNDwg1i%2B%2Bf8kt3lSJ9P697U5hUdz0%3D" width="250" alt="Logo" > 
+ <img src="https://github.com/HVbajoria/LegitLens/assets/72864242/6e59a051-435c-47c1-91e8-7e80685a9874" width="250" alt="Logo" > 
    </p> 
  </br> 
   
@@ -39,10 +39,10 @@ The proliferation of fake news undermines the integrity of information, erodes p
 ## Methodology
 
 ### Training and Testing Model
-<img src="https://datasetlegitlens.blob.core.windows.net/dataset/Training%20and%20Testing%20Model.png?sp=r&st=2023-12-04T05:22:23Z&se=2023-12-04T13:22:23Z&sv=2022-11-02&sr=b&sig=IQd57swFoULFoIs2n061FXCgpoYj66VyCXm%2BrNtB4h4%3D" width="1050" alt="Training and Testing Model" > 
+<img src="https://github.com/HVbajoria/LegitLens/assets/72864242/ee92ea6b-0c67-4505-959b-3d4d1d8756ed" width="1050" alt="Training and Testing Model" > 
 
 ## The Application Architecture
-<img src="https://datasetlegitlens.blob.core.windows.net/dataset/Legit%20Lens.png?sp=r&st=2023-12-04T05:24:46Z&se=2023-12-19T13:24:46Z&sv=2022-11-02&sr=b&sig=NyzhM%2Bv0gInHWSi26RRBhZH3SbLBhTDUvGRpshc70%2BA%3D" width="1050" alt="Application Architecture" > 
+<img src="https://github.com/HVbajoria/LegitLens/assets/72864242/d0d92675-3996-42cf-9bd5-064cfebddfa0" width="1050" alt="Application Architecture" > 
 
 ## Overview of the model: 
 *  Basics
