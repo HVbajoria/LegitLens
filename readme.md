@@ -25,6 +25,18 @@
 ## Theme :  
 The proliferation of fake news undermines the integrity of information, erodes public trust, and poses a significant threat to democratic processes. Developing a robust fake news detection tool is imperative to safeguard the accuracy of news sources, protect public discourse, and mitigate the societal consequences of misinformation in the digital age.
 
+## Problem Statement:
+Misinformation is everywhere, in social media, websites, and even face-to-face. It’s hard to know what to believe, and even harder to figure out what’s true.
+
+Misinformation has severe consequences. It can lead to health scares, like the anti-vaccination movement. It can cause political instability, like the 2016 U.S. Presidential Election. It can even lead to murder, like the case of the Pizzagate conspiracy theory.
+
+Existing solutions have failed due a number of reasons:
+* Lack of accurate, up-to-date data: Most fact-checking organizations rely on manually collected data, which is often out-of-date or incomplete.
+* Lack of centralized knowledge base: There is no central repository of fact-checked content, which makes it difficult to track the spread of misinformation and to identify new instances of misinformation.
+* Lack of platform coverage: Most fact-checking organizations only operate on one platform (e.g. Facebook), making it difficult to reach users on other platforms (e.g. WhatsApp).
+* Lack of scale: Fact-checking organizations are often small, with limited resources. They can only fact-check a limited number of claims.
+* Lack of language coverage: Most fact-checking organizations only operate in one language, making it difficult to reach a global audience.
+
  ## Tech Stack: 
  The following tech stacks have been used to create the application and deploy it.   
 * **Streamlit** to build the front end of the application. 
