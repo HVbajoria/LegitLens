@@ -5,6 +5,8 @@
  </br> 
   
  ## Website Link: https://legitlens.streamlit.app/
+
+ ## Dataset Link: https://datasetlegitlens.blob.core.windows.net/dataset/data.zip?sp=r&st=2024-03-04T08:53:01Z&se=2024-03-12T16:53:01Z&sv=2022-11-02&sr=b&sig=YedG0Wh9gt2%2FzEdS4dAo3jUrzciUl4g9s9IcSvULUE4%3D 
   
  ## Details : 
 
