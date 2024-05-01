@@ -79,7 +79,7 @@ def load():
 
   warnings.warn('Data loaded.')
 
-  from sklearn.linear_model import LogisticRegression
+  from sklearn.neural_network import MLPClassifierion
   from sklearn.metrics import precision_recall_fscore_support, accuracy_score, confusion_matrix
 
   # natural language and vocab
@@ -109,7 +109,7 @@ def load():
 
   # train model
   def train_model(X_train, y_train):
-      model = LogisticRegression(solver='liblinear')
+      model = MLPClassifier(solver='lbfgs', alpha=1e-5,hidden_layer_sizes=(5, 2), random_state=1)
       model.fit(X_train, y_train)
 
       return model
