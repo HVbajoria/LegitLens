@@ -79,7 +79,7 @@ def load():
 
   warnings.warn('Data loaded.')
 
-  from sklearn.neural_network import MLPClassifier
+  from sklearn.neural_network import MLPClassifierion
   from sklearn.metrics import precision_recall_fscore_support, accuracy_score, confusion_matrix
 
   # natural language and vocab
@@ -275,10 +275,11 @@ best_matrix = Image.open('confusion_matrix.png')
 
 left.image(best_matrix, caption='Confusion matrix.')
 left.subheader('Here are some metrics for the most accurate model we trained!')
-left.write('**Maximum achieved accuracy:** $0.99601$')
-left.write('**Maximum achieved precision:** $0.99349$')
-left.write('**Maximum achieved recall:** $0.99782$')
-left.write('**Maximum achieved F-1 score:** $0.99565$')
+left.write('**Maximum achieved accuracy:** $0.9960060$')
+left.write('**Maximum achieved precision:** $0.9960402$')
+left.write('**Maximum achieved recall:** $0.9960060$')
+left.write('**Maximum achieved F-1 score:** $0.9960071$')
+left.write('**Maximum achieved Log Loss:** $0.02299019$')
 
 left.divider()
 
