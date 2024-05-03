@@ -321,7 +321,8 @@ with right.form(key='try_it_out'):
         st.divider()
         st.write('Here are all the feature weights that contributed to the decision.')
         st.write('\n\n'.join(map(lambda feature: f'The feature `{feature[0]}` has a weight of **{feature[1][1]}**. Multiplied by its value gives **{feature[1][0]}**.', items)))
-    except:
+    except Exception as error:
+      print("An exception occurred:", error)
       advice = st.write('*I don\'t think your URL worked. Please check your spelling or try another.*')
 
 with st.expander('See our data.'):
