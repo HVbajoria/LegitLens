@@ -1,7 +1,8 @@
 import streamlit as st
 import subprocess
 import warnings
-
+from sklearn.neural_network import MLPClassifier
+from sklearn.metrics import precision_recall_fscore_support, accuracy_score, confusion_matrix
 from PIL import Image
 
 st.set_page_config(layout='wide', page_title='Legit Lens', page_icon=':newspaper:', menu_items={'About': '#Legit Lens\nThis project was created for Minor Project.'})
@@ -79,7 +80,7 @@ def load():
 
   warnings.warn('Data loaded.')
 
-  from sklearn.neural_network import MLPClassifier
+  from sklearn.linear_model import LogisticRegression
   from sklearn.metrics import precision_recall_fscore_support, accuracy_score, confusion_matrix
 
   # natural language and vocab
