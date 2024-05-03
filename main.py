@@ -79,7 +79,7 @@ def load():
 
   warnings.warn('Data loaded.')
 
-  from sklearn.neural_network import MLPClassifierion
+  from sklearn.neural_network import MLPClassifier
   from sklearn.metrics import precision_recall_fscore_support, accuracy_score, confusion_matrix
 
   # natural language and vocab
