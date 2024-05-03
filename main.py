@@ -275,10 +275,10 @@ best_matrix = Image.open('confusion_matrix.png')
 
 left.image(best_matrix, caption='Confusion matrix.')
 left.subheader('Here are some metrics for the most accurate model we trained!')
-left.write('**Maximum achieved accuracy:** $0.9029126213592233$')
-left.write('**Maximum achieved precision:** $0.8404907975460123$')
-left.write('**Maximum achieved recall:** $0.9716312056737588$')
-left.write('**Maximum achieved F-1 score:** $0.9013157894736842$')
+left.write('**Maximum achieved accuracy:** $0.99601$')
+left.write('**Maximum achieved precision:** $0.99349$')
+left.write('**Maximum achieved recall:** $0.99782$')
+left.write('**Maximum achieved F-1 score:** $0.99565$')
 
 left.divider()
 
