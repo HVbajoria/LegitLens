@@ -110,7 +110,7 @@ def load():
 
   # train model
   def train_model(X_train, y_train):
-      model = MLPClassifier(solver='lbfgs', alpha=1e-5,hidden_layer_sizes=(5, 2), random_state=1)
+      model = LogisticRegression(solver='liblinear')
       model.fit(X_train, y_train)
 
       return model
